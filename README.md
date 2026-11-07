@@ -23,6 +23,7 @@ Don't skimp on this section, your customers will pay for it anyways.
 8 TB's runs me around $45.00 per month - Used with Veeam for Offsite Backups
 4) Office 365 and Azure AD - https://office365.com - Email and Offsite AD Replication
 5) IT Glue - https://www.itglue.com/ - Best Documentation software in my opinion, can also be used for password management
+6) Nizlo - https://nizlo.com/ - Windows-first hosted RMM and IT management for small MSPs. Public plans start at $59/month per technician with unlimited RMM endpoints; a 14-day trial is available without a credit card. Linux agent support is currently preview-only.
 
 
 This list will get you up and running. Depending on your choices MSP Nerd can offer you project or by the hour consulting services on how to get up and running with these tools. We can also offer paid alternatives on what we think are the industry standards.
